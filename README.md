@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm NikosDev🧛‍♂️</h1>
 <h3 align="center">Game developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikosdev-cmd" alt="nikosdev-cmd" /></a> </p>
+
 - 🌱 I’m currently learning **C, JavaScript**
 
 - 👨‍💻 All of my projects are available at [NikosDev-cmd.github.io](NikosDev-cmd.github.io)

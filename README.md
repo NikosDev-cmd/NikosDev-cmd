@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikos.dev@yahoo.com**
 
-- ⚡ Fun fact **I'm vampire**
+- ⚡ Fun fact **I use ChatGPT sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
